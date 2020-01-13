@@ -1,0 +1,10 @@
+# Ignore extention-less files
+# This is most commonly compiled files in C-type languages
+*
+!/**/
+!*.*
+
+# Ignore the .idea folder automatically added
+.idea/
+
+# Add custom files here
