@@ -8,3 +8,4 @@
 .idea/
 
 # Add custom files here
+*.class
